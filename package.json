@@ -19,5 +19,8 @@
   "homepage": "https://github.com/emanuellecva/teste-ebac-ui#readme",
   "devDependencies": {
     "cypress": "^9.6.1"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
   }
 }
